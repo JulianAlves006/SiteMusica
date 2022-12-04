@@ -1,0 +1,31 @@
+body{
+    background-image: url(img/thumb2-music-neon-icon-4k-violet-background-neon-symbols-music.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.sim{
+    background-color: rgb(15, 13, 13);
+    text-align: center;
+    color: rgb(196, 169, 218);
+    margin: 40px auto;
+    max-width: 620px;
+    padding: 15px;
+    border-radius: 20px;
+}
+img.no{
+    width: 500px;
+    height: 250px;
+}
+img.non{
+    width: 500px;
+    height: 350px;
+}
+img.violino{
+    width: 500px;
+    height: 400px;}
+img.yes{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    padding: 15px;
+}
